@@ -4,17 +4,17 @@
 
 <p>
   <a href="https://awesome.re"><img src="https://awesome.re/badge-flat2.svg" alt="Awesome"></a>
-  <a href="https://github.com/Jiashuo-Zhang/Awesom-Security-Skills/stargazers"><img src="https://img.shields.io/github/stars/Jiashuo-Zhang/Awesom-Security-Skills?style=flat-square&color=gold" alt="Stars"></a>
-  <a href="https://github.com/Jiashuo-Zhang/Awesom-Security-Skills/network/members"><img src="https://img.shields.io/github/forks/Jiashuo-Zhang/Awesom-Security-Skills?style=flat-square&color=blue" alt="Forks"></a>
-  <a href="https://github.com/Jiashuo-Zhang/Awesom-Security-Skills/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome"></a>
-  <a href="https://github.com/Jiashuo-Zhang/Awesom-Security-Skills/commits/main"><img src="https://img.shields.io/github/last-commit/Jiashuo-Zhang/Awesom-Security-Skills?style=flat-square" alt="Last Commit"></a>
+  <a href="https://github.com/Jiashuo-Zhang/Awesome-Security-Skills/stargazers"><img src="https://img.shields.io/github/stars/Jiashuo-Zhang/Awesome-Security-Skills?style=flat-square&color=gold" alt="Stars"></a>
+  <a href="https://github.com/Jiashuo-Zhang/Awesome-Security-Skills/network/members"><img src="https://img.shields.io/github/forks/Jiashuo-Zhang/Awesome-Security-Skills?style=flat-square&color=blue" alt="Forks"></a>
+  <a href="https://github.com/Jiashuo-Zhang/Awesome-Security-Skills/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen?style=flat-square" alt="PRs Welcome"></a>
+  <a href="https://github.com/Jiashuo-Zhang/Awesome-Security-Skills/commits/main"><img src="https://img.shields.io/github/last-commit/Jiashuo-Zhang/Awesome-Security-Skills?style=flat-square" alt="Last Commit"></a>
 </p>
 
 <p><em>A curated list of awesome skills, MCP tools, and resources for security analysis,<br>vulnerability detection and anything related to cyber security.</em></p>
 
 <p>
-  <a href="https://github.com/Jiashuo-Zhang/Awesom-Security-Skills/issues">Report Issue</a> ·
-  <a href="https://github.com/Jiashuo-Zhang/Awesom-Security-Skills/pulls">Request Addition</a> ·
+  <a href="https://github.com/Jiashuo-Zhang/Awesome-Security-Skills/issues">Report Issue</a> ·
+  <a href="https://github.com/Jiashuo-Zhang/Awesome-Security-Skills/pulls">Request Addition</a> ·
   <a href="#contributing">Contribute</a>
 </p>
 
@@ -195,4 +195,4 @@
 
 ## Contributing
 
-Contributions are welcome. Open a [Pull Request](https://github.com/Jiashuo-Zhang/Awesom-Security-Skills/pulls) to add new resources.
+Contributions are welcome. Open a [Pull Request](https://github.com/Jiashuo-Zhang/Awesome-Security-Skills/pulls) to add new resources.
