@@ -98,6 +98,7 @@
 | [ljagiello/ctf-skills](https://github.com/ljagiello/ctf-skills) | ![Stars](https://img.shields.io/github/stars/ljagiello/ctf-skills?style=flat-square) | AI skills configured for Capture The Flag challenge solving (pwn, crypto, web, misc). |
 | [learntocloud/linux-ctfs](https://github.com/learntocloud/linux-ctfs) | ![Stars](https://img.shields.io/github/stars/learntocloud/linux-ctfs?style=flat-square) | Linux-based CTF challenges with AI-assisted skill support for learning cloud security. |
 
+| [ASCIT31/Dark-Moon](https://github.com/ASCIT31/Dark-Moon) | ![Stars](https://img.shields.io/github/stars/ASCIT31/Dark-Moon?style=flat-square) | Autonomous AI penetration testing platform for web, API, Active Directory and Kubernetes (GPL-3.0). |
 ### Penetration Testing
 
 | Repository | Stars | Description |
