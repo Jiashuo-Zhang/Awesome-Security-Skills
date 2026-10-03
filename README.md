@@ -120,6 +120,7 @@
 |------------|-------|-------------|
 | [snyk/agent-scan](https://github.com/snyk/agent-scan) | ![Stars](https://img.shields.io/github/stars/snyk/agent-scan?style=flat-square) | Snyk's agent scanning tool for detecting vulnerabilities introduced by AI-generated code. |
 | [prompt-security/clawsec](https://github.com/prompt-security/clawsec) | ![Stars](https://img.shields.io/github/stars/prompt-security/clawsec?style=flat-square) | Security layer for Claude-based agents, protecting against prompt injection and abuse. |
+| [hashgraph-online/hol-guard](https://github.com/hashgraph-online/hol-guard) | ![Stars](https://img.shields.io/github/stars/hashgraph-online/hol-guard?style=flat-square) | Local-first runtime firewall for AI coding agents; intercepts shell, secrets, MCP, and package installs before execution (Apache-2.0). Docs: https://hol.org/guard. |
 | [slowmist/slowmist-agent-security](https://github.com/slowmist/slowmist-agent-security) | ![Stars](https://img.shields.io/github/stars/slowmist/slowmist-agent-security?style=flat-square) | SlowMist's security framework for auditing and hardening AI agents in blockchain contexts. |
 
 ### Skill Security
